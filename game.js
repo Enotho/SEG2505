@@ -1,1 +1,1 @@
-blah
+alert("blah");
